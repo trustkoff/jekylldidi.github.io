@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 112233
-permalink: /112233/
+permalink: /1/
 ---
 
 fgdfgdfgdfgdfg
